@@ -1,11 +1,9 @@
 # Making a full stack app
 I've worked with full stack apps before, but I want to try deploying my own full stack app
 
-## Resources
-- [DRF tutorial])(https://www.django-rest-framework.org/tutorial/quickstart/)
-
-
 ## kicking it off
+If you want to see all the changes I made, check out [the commit](https://github.com/ngozinwogwugwu/music_sandbox/commit/b40dd09ca9f64fa00e73fed0feef6bb2488b29d3)
+
 ``` bash
 cd repos/music_sandbox/backend/
 source env/bin/activate
